@@ -1,0 +1,1163 @@
+Competition: Euro Championship, Country: World
+Competition: Confederations Cup, Country: World
+Competition: Ligue 1, Country: France
+Competition: Jupiler Pro League, Country: Belgium
+Competition: Serie A, Country: Brazil
+Competition: Premier League, Country: England
+Competition: Bundesliga, Country: Germany
+Competition: Serie A, Country: Italy
+Competition: Eredivisie, Country: Netherlands
+Competition: Primeira Liga, Country: Portugal
+Competition: La Liga, Country: Spain
+Competition: Premiership, Country: Scotland
+Competition: Championship, Country: Scotland
+Competition: World Cup, Country: World
+Competition: Asian Games, Country: World
+Competition: Caribbean Cup, Country: World
+Competition: Ligue 2, Country: France
+Competition: UEFA Champions League, Country: World
+Competition: 1st Division, Country: Albania
+Competition: Superliga, Country: Albania
+Competition: Ligue 1, Country: Algeria
+Competition: Ligue 2, Country: Algeria
+Competition: Vysshaya Liga, Country: Tajikistan
+Competition: West Bank Premier League, Country: Palestine
+Competition: National League, Country: Myanmar
+Competition: Pro League, Country: Trinidad-And-Tobago
+Competition: Cup, Country: Ukraine
+Competition: Druha Liga, Country: Ukraine
+Competition: Persha Liga, Country: Ukraine
+Competition: Premier League, Country: Ukraine
+Competition: Pro League, Country: United-Arab-Emirates
+Competition: Division 1, Country: United-Arab-Emirates
+Competition: League Cup, Country: United-Arab-Emirates
+Competition: Segunda División, Country: Uruguay
+Competition: Ligue 1, Country: Tunisia
+Competition: Süper Lig, Country: Turkey
+Competition: 1. Lig, Country: Turkey
+Competition: 2. Lig, Country: Turkey
+Competition: Cup, Country: Turkey
+Competition: 3. Lig - Group 1, Country: Turkey
+Competition: 3. Lig - Group 2, Country: Turkey
+Competition: 3. Lig - Group 3, Country: Turkey
+Competition: National 1, Country: France
+Competition: Coupe de France, Country: France
+Competition: Coupe de la Ligue, Country: France
+Competition: National 2 - Group A, Country: France
+Competition: National 2 - Group B, Country: France
+Competition: National 2 - Group C, Country: France
+Competition: National 2 - Group D, Country: France
+Competition: Premier League, Country: Egypt
+Competition: Primera Division, Country: El-Salvador
+Competition: Esiliiga A, Country: Estonia
+Competition: Meistriliiga, Country: Estonia
+Competition: Erovnuli Liga 2, Country: Georgia
+Competition: Premier League, Country: Ghana
+Competition: Division d'Honneur, Country: Guadeloupe
+Competition: Liga Nacional, Country: Guatemala
+Competition: Primera Division, Country: Guatemala
+Competition: Cup, Country: Greece
+Competition: Football League, Country: Greece
+Competition: Super League 1, Country: Greece
+Competition: 2. Bundesliga, Country: Germany
+Competition: 3. Liga, Country: Germany
+Competition: Super Cup, Country: Germany
+Competition: DFB Pokal, Country: Germany
+Competition: Asian Cup, Country: World
+Competition: World Cup - Women, Country: World
+Competition: 2nd Division - Group A, Country: Albania
+Competition: 2nd Division - Group B, Country: Albania
+Competition: 1a Divisió, Country: Andorra
+Competition: 2a Divisió, Country: Andorra
+Competition: Primera B Metropolitana, Country: Argentina
+Competition: Primera Nacional, Country: Argentina
+Competition: Primera C, Country: Argentina
+Competition: Primera D, Country: Argentina
+Competition: Torneo Federal A, Country: Argentina
+Competition: A-League, Country: Australia
+Competition: Brisbane Premier League, Country: Australia
+Competition: Northern Territory Premier League, Country: Australia
+Competition: Cup, Country: Austria
+Competition: 2. Liga, Country: Austria
+Competition: Bundesliga, Country: Austria
+Competition: Birinci Dasta, Country: Azerbaidjan
+Competition: Premyer Liqa, Country: Azerbaidjan
+Competition: Regionalliga - Mitte, Country: Austria
+Competition: Regionalliga - Ost, Country: Austria
+Competition: Regionalliga - West, Country: Austria
+Competition: Premier League, Country: Wales
+Competition: Welsh Cup, Country: Wales
+Competition: Primera División, Country: Venezuela
+Competition: Segunda División, Country: Venezuela
+Competition: Professional League, Country: Oman
+Competition: Premier League, Country: Jamaica
+Competition: League, Country: Jordan
+Competition: 1. Division, Country: Kazakhstan
+Competition: Premier League, Country: Kuwait
+Competition: Superliga, Country: Denmark
+Competition: 1. Division, Country: Denmark
+Competition: Denmark Series - Group 1, Country: Denmark
+Competition: Denmark Series - Group 2, Country: Denmark
+Competition: Denmark Series - Group 3, Country: Denmark
+Competition: Liga Nacional, Country: Honduras
+Competition: HKFA 1st Division, Country: Hong-Kong
+Competition: Premier League, Country: Hong-Kong
+Competition: Magyar Kupa, Country: Hungary
+Competition: NB I, Country: Hungary
+Competition: NB II, Country: Hungary
+Competition: Premier League, Country: Lebanon
+Competition: National Division, Country: Luxembourg
+Competition: Second Division, Country: Qatar
+Competition: Stars League, Country: Qatar
+Competition: Championship, Country: England
+Competition: EFL Trophy, Country: England
+Competition: FA Cup, Country: England
+Competition: FA Trophy, Country: England
+Competition: League Cup, Country: England
+Competition: National League, Country: England
+Competition: League One, Country: England
+Competition: League Two, Country: England
+Competition: Eerste Divisie, Country: Surinam
+Competition: FIFA Intercontinental Cup, Country: World
+Competition: Premier League, Country: Barbados
+Competition: Olympics Men, Country: World
+Competition: CECAFA Senior Challenge Cup, Country: World
+Competition: Serie B, Country: Brazil
+Competition: Serie C, Country: Brazil
+Competition: Serie D, Country: Brazil
+Competition: Premier League, Country: Uganda
+Competition: Première Division, Country: Mali
+Competition: Major League Soccer, Country: USA
+Competition: US Open Cup, Country: USA
+Competition: Primera División - Apertura, Country: Uruguay
+Competition: Primera División - Clausura, Country: Uruguay
+Competition: Super League, Country: Uzbekistan
+Competition: Thai League 1, Country: Thailand
+Competition: Thai League 2, Country: Thailand
+Competition: Super Cup, Country: Turkey
+Competition: 1. Deild, Country: Faroe-Islands
+Competition: Meistaradeildin, Country: Faroe-Islands
+Competition: Ykkönen, Country: Finland
+Competition: Veikkausliiga, Country: Finland
+Competition: Suomen Cup, Country: Finland
+Competition: Kakkonen - Lohko A, Country: Finland
+Competition: Kakkonen - Lohko B, Country: Finland
+Competition: Kakkonen - Lohko C, Country: Finland
+Competition: Trophée des Champions, Country: France
+Competition: Liga Pro, Country: Ecuador
+Competition: Liga Pro Serie B, Country: Ecuador
+Competition: Super Cup, Country: Egypt
+Competition: Girabola, Country: Angola
+Competition: First League, Country: Armenia
+Competition: Premier League, Country: Armenia
+Competition: Northern NSW NPL, Country: Australia
+Competition: Premier League, Country: Belarus
+Competition: 1. Division, Country: Belarus
+Competition: 2. Division, Country: Belarus
+Competition: Super League, Country: Zambia
+Competition: V.League 1, Country: Vietnam
+Competition: Emperor Cup, Country: Japan
+Competition: J-League Cup, Country: Japan
+Competition: J1 League, Country: Japan
+Competition: J2 League, Country: Japan
+Competition: J3 League, Country: Japan
+Competition: Premier League, Country: Kazakhstan
+Competition: FKF Premier League, Country: Kenya
+Competition: DBU Pokalen, Country: Denmark
+Competition: Ligue Haïtienne, Country: Haiti
+Competition: 1. Liga, Country: Latvia
+Competition: Virsliga, Country: Latvia
+Competition: 1 Lyga, Country: Lithuania
+Competition: A Lyga, Country: Lithuania
+Competition: Community Shield, Country: England
+Competition: League Cup, Country: Singapore
+Competition: SAFF Championship, Country: World
+Competition: Division di Honor, Country: Aruba
+Competition: Cup, Country: Azerbaidjan
+Competition: FA Cup, Country: Thailand
+Competition: National Football League, Country: Fiji
+Competition: Feminine Division 1, Country: France
+Competition: UEFA Europa League, Country: World
+Competition: Erovnuli Liga, Country: Georgia
+Competition: Ligue 1, Country: Guinea
+Competition: World Cup - Qualification Intercontinental Play-offs, Country: World
+Competition: Acreano, Country: Brazil
+Competition: AFC Challenge Cup, Country: World
+Competition: Super Cup, Country: Italy
+Competition: African Nations Championship, Country: World
+Competition: AFF Championship, Country: World
+Competition: Liga Profesional Argentina, Country: Argentina
+Competition: League One, Country: Scotland
+Competition: League Two, Country: Scotland
+Competition: CONCACAF Gold Cup, Country: World
+Competition: EAFF E-1 Football Championship, Country: World
+Competition: OFC Champions League, Country: World
+Competition: Super Cup, Country: Belgium
+Competition: Super Cup, Country: Chile
+Competition: Africa Cup of Nations, Country: World
+Competition: Copa America, Country: World
+Competition: Super Cup, Country: Czech-Republic
+Competition: USL Championship, Country: USA
+Competition: Premier League, Country: Ethiopia
+Competition: 2nd Division - Group 1, Country: Denmark
+Competition: 2nd Division - Group 2, Country: Denmark
+Competition: Ligi kuu Bara, Country: Tanzania
+Competition: Super Cup, Country: Portugal
+Competition: Supercupa, Country: Romania
+Competition: Super Cup, Country: Spain
+Competition: Japan Football League, Country: Japan
+Competition: Denmark Series - Group 4, Country: Denmark
+Competition: Ettan - Norra, Country: Sweden
+Competition: Ettan - Södra, Country: Sweden
+Competition: 1st League - RS, Country: Bosnia
+Competition: 1st League - FBiH, Country: Bosnia
+Competition: K3 League, Country: South-Korea
+Competition: Hazfi Cup, Country: Iran
+Competition: Liga Alef, Country: Israel
+Competition: 2. liga, Country: Slovakia
+Competition: Coupe Nationale, Country: Algeria
+Competition: Amapaense, Country: Brazil
+Competition: Amazonense, Country: Brazil
+Competition: Olympics Women, Country: World
+Competition: UEFA Super Cup, Country: World
+Competition: Super Cup, Country: Netherlands
+Competition: 2. Deild, Country: Iceland
+Competition: Premier League, Country: Singapore
+Competition: Cup, Country: Bosnia
+Competition: Premijer Liga, Country: Bosnia
+Competition: First League, Country: Macedonia
+Competition: Liga Leumit, Country: Israel
+Competition: Ligat Ha'al, Country: Israel
+Competition: Ligue 1, Country: Ivory-Coast
+Competition: Challenge League, Country: Malta
+Competition: Premier League, Country: Malta
+Competition: Super Liga, Country: Moldova
+Competition: Primera Division, Country: Nicaragua
+Competition: Taça de Portugal, Country: Portugal
+Competition: NPFL, Country: Nigeria
+Competition: Premier Soccer League, Country: Zimbabwe
+Competition: Sudani Premier League, Country: Sudan
+Competition: Ligue 1, Country: Senegal
+Competition: Campionato, Country: San-Marino
+Competition: Elite One, Country: Cameroon
+Competition: C-League, Country: Cambodia
+Competition: Premier League, Country: Bahrain
+Competition: Championnat National, Country: Benin
+Competition: Premier League, Country: Bermuda
+Competition: Super League, Country: Bhutan
+Competition: Premier League, Country: Botswana
+Competition: Premier League, Country: Bangladesh
+Competition: CONCACAF Champions League, Country: World
+Competition: AFC Champions League, Country: World
+Competition: Gulf Cup of Nations, Country: World
+Competition: International Champions Cup, Country: World
+Competition: Segunda División, Country: Spain
+Competition: Serie B, Country: Italy
+Competition: Eliteserien, Country: Norway
+Competition: Eerste Divisie, Country: Netherlands
+Competition: Segunda Liga, Country: Portugal
+Competition: Allsvenskan, Country: Sweden
+Competition: Primera División, Country: Costa-Rica
+Competition: Úrvalsdeild, Country: Iceland
+Competition: Super League, Country: China
+Competition: Coppa Italia, Country: Italy
+Competition: Botola Pro, Country: Morocco
+Competition: Super League, Country: Switzerland
+Competition: HNL, Country: Croatia
+Competition: Premier League, Country: Russia
+Competition: Primera A, Country: Colombia
+Competition: Division Profesional - Apertura, Country: Paraguay
+Competition: Copa Do Brasil, Country: Brazil
+Competition: KNVB Beker, Country: Netherlands
+Competition: Challenger Pro League, Country: Belgium
+Competition: Second League, Country: Bulgaria
+Competition: League One, Country: China
+Competition: Capital Territory NPL, Country: Australia
+Competition: Primera B, Country: Colombia
+Competition: First NL, Country: Croatia
+Competition: Serie C - Girone A, Country: Italy
+Competition: Super League Women, Country: Belgium
+Competition: Brasileiro Women, Country: Brazil
+Competition: FA WSL, Country: England
+Competition: Frauen Bundesliga, Country: Germany
+Competition: Serie A Women, Country: Italy
+Competition: Eredivisie Women, Country: Netherlands
+Competition: Primera División Femenina, Country: Spain
+Competition: Copa Argentina, Country: Argentina
+Competition: A-League Women, Country: Australia
+Competition: First League, Country: Russia
+Competition: 1. Deild, Country: Iceland
+Competition: Division Intermedia, Country: Paraguay
+Competition: 1. Division, Country: Norway
+Competition: Superettan, Country: Sweden
+Competition: Challenge League, Country: Switzerland
+Competition: Liga MX, Country: Mexico
+Competition: Liga de Expansión MX, Country: Mexico
+Competition: Canadian Championship, Country: Canada
+Competition: Super League, Country: Malaysia
+Competition: Premier League, Country: Malaysia
+Competition: Premiership, Country: New-Zealand
+Competition: Primera División, Country: Peru
+Competition: Segunda División, Country: Peru
+Competition: Liga I, Country: Romania
+Competition: Liga II, Country: Romania
+Competition: Super Liga, Country: Serbia
+Competition: Prva Liga, Country: Serbia
+Competition: Premier Soccer League, Country: South-Africa
+Competition: 1st Division, Country: South-Africa
+Competition: Persian Gulf Pro League, Country: Iran
+Competition: Azadegan League, Country: Iran
+Competition: K League 1, Country: South-Korea
+Competition: K League 2, Country: South-Korea
+Competition: Pro League, Country: Saudi-Arabia
+Competition: Division 1, Country: Saudi-Arabia
+Competition: Division 2, Country: Saudi-Arabia
+Competition: Division Profesional - Clausura, Country: Paraguay
+Competition: Premier League, Country: Kyrgyzstan
+Competition: Division 2 - Norra Götaland, Country: Sweden
+Competition: Division 2 - Norra Svealand, Country: Sweden
+Competition: Division 2 - Norrland, Country: Sweden
+Competition: Division 2 - Södra Svealand, Country: Sweden
+Competition: Division 2 - Västra Götaland, Country: Sweden
+Competition: Division 2 - Östra Götaland, Country: Sweden
+Competition: Cup, Country: Tunisia
+Competition: U19 Bundesliga, Country: Germany
+Competition: Copa Centroamericana, Country: World
+Competition: OFC Nations Cup, Country: World
+Competition: China Cup, Country: World
+Competition: Crown Prince Cup, Country: Saudi-Arabia
+Competition: Second League, Country: Macedonia
+Competition: Cup, Country: Bulgaria
+Competition: Friendlies, Country: World
+Competition: UEFA Youth League, Country: World
+Competition: AFC Cup, Country: World
+Competition: CAF Confederation Cup, Country: World
+Competition: League Cup, Country: Northern-Ireland
+Competition: Presidents Cup, Country: United-Arab-Emirates
+Competition: Premier Intermediate League, Country: Northern-Ireland
+Competition: Championship, Country: Northern-Ireland
+Competition: Premiership, Country: Northern-Ireland
+Competition: Division 1, Country: Kuwait
+Competition: UEFA U21 Championship, Country: World
+Competition: Premier League, Country: Syria
+Competition: Alagoano, Country: Brazil
+Competition: Druha Liga - Group B, Country: Ukraine
+Competition: League Cup, Country: Scotland
+Competition: World Cup - U20, Country: World
+Competition: Tweede Divisie, Country: Netherlands
+Competition: Cup, Country: Kazakhstan
+Competition: King's Cup, Country: Saudi-Arabia
+Competition: Cup, Country: South-Africa
+Competition: League Cup, Country: South-Africa
+Competition: 1. Liga Promotion, Country: Switzerland
+Competition: Premier League, Country: Libya
+Competition: Taiwan Football Premier League, Country: Chinese-Taipei
+Competition: Canadian Soccer League, Country: Canada
+Competition: Liga 1, Country: Indonesia
+Competition: Liga Panameña de Fútbol, Country: Panama
+Competition: Ekstraklasa, Country: Poland
+Competition: First League, Country: Bulgaria
+Competition: UEFA Nations League, Country: World
+Competition: Liga de Ascenso, Country: Costa-Rica
+Competition: FAW Championship, Country: Wales
+Competition: Primera División, Country: Chile
+Competition: Primera B, Country: Chile
+Competition: Super League, Country: Kenya
+Competition: 1. Division, Country: Cyprus
+Competition: 2. Division, Country: Cyprus
+Competition: 3. Division, Country: Cyprus
+Competition: Botola 2, Country: Morocco
+Competition: Indian Super League, Country: India
+Competition: I-League, Country: India
+Competition: I Liga, Country: Poland
+Competition: Super Liga, Country: Slovakia
+Competition: Czech Liga, Country: Czech-Republic
+Competition: FNL, Country: Czech-Republic
+Competition: First League, Country: Montenegro
+Competition: Second League, Country: Montenegro
+Competition: Primera División, Country: Bolivia
+Competition: USL League Two, Country: USA
+Competition: FA Cup, Country: Hong-Kong
+Competition: AIFF Super Cup, Country: India
+Competition: Super Cup, Country: Norway
+Competition: CONCACAF Nations League - Qualification, Country: World
+Competition: 1. SNL, Country: Slovenia
+Competition: 2. SNL, Country: Slovenia
+Competition: Super League, Country: Malawi
+Competition: Copa del Rey, Country: Spain
+Competition: National Soccer League, Country: Rwanda
+Competition: Premier League, Country: Namibia
+Competition: Premier League, Country: Belize
+Competition: Cup, Country: Croatia
+Competition: State Cup, Country: Israel
+Competition: Cupa României, Country: Romania
+Competition: Cup, Country: Cyprus
+Competition: World Cup - Qualification CONCACAF, Country: World
+Competition: World Cup - Qualification Europe, Country: World
+Competition: World Cup - Qualification Oceania, Country: World
+Competition: World Cup - Qualification South America, Country: World
+Competition: World Cup - Qualification Africa, Country: World
+Competition: World Cup - Qualification Asia, Country: World
+Competition: Serie C - Girone B, Country: Italy
+Competition: Serie C - Girone C, Country: Italy
+Competition: Super Cup, Country: Georgia
+Competition: Piala Indonesia, Country: Indonesia
+Competition: Second Amateur Division - VFV A, Country: Belgium
+Competition: Second Amateur Division - VFV B, Country: Belgium
+Competition: Third Amateur Division - VFV A, Country: Belgium
+Competition: Third Amateur Division - VFV B, Country: Belgium
+Competition: Third League - Northeast, Country: Bulgaria
+Competition: Third League - Northwest, Country: Bulgaria
+Competition: Third League - Southeast, Country: Bulgaria
+Competition: Third League - Southwest, Country: Bulgaria
+Competition: National League - Play-offs, Country: England
+Competition: Løgmanssteypid, Country: Faroe-Islands
+Competition: UEFA U19 Championship, Country: World
+Competition: Malaysia Cup, Country: Malaysia
+Competition: Super Cup, Country: Algeria
+Competition: CONCACAF U20, Country: World
+Competition: Landesliga - Burgenland, Country: Austria
+Competition: Landesliga - Karnten, Country: Austria
+Competition: Landesliga - Niederosterreich, Country: Austria
+Competition: Landesliga - Oberosterreich, Country: Austria
+Competition: Landesliga - Salzburg, Country: Austria
+Competition: Landesliga - Steiermark, Country: Austria
+Competition: Landesliga - Tirol, Country: Austria
+Competition: Landesliga - Vorarlbergliga, Country: Austria
+Competition: Landesliga - Wien, Country: Austria
+Competition: Second Amateur Division - ACFF, Country: Belgium
+Competition: Provincial - Antwerpen, Country: Belgium
+Competition: Provincial - Brabant VFV, Country: Belgium
+Competition: Provincial - Hainaut, Country: Belgium
+Competition: Provincial - Liege, Country: Belgium
+Competition: Provincial - Limburg, Country: Belgium
+Competition: Provincial - Luxembourg, Country: Belgium
+Competition: Provincial - Namur, Country: Belgium
+Competition: Provincial - Oost-Vlaanderen, Country: Belgium
+Competition: Provincial - West-Vlaanderen, Country: Belgium
+Competition: Ligue 1, Country: Burkina-Faso
+Competition: Ligue 1, Country: Congo-DR
+Competition: Third NL - Istok, Country: Croatia
+Competition: Third NL - Jug, Country: Croatia
+Competition: Third NL - Sjever, Country: Croatia
+Competition: Third NL - Sredite, Country: Croatia
+Competition: Third NL - Zapad, Country: Croatia
+Competition: 3. liga - CFL A, Country: Czech-Republic
+Competition: 3. liga - MSFL, Country: Czech-Republic
+Competition: 4. liga - Divizie A, Country: Czech-Republic
+Competition: 4. liga - Divizie B, Country: Czech-Republic
+Competition: 4. liga - Divizie C, Country: Czech-Republic
+Competition: 4. liga - Divizie D, Country: Czech-Republic
+Competition: 4. liga - Divizie E, Country: Czech-Republic
+Competition: National League - North, Country: England
+Competition: National League - South, Country: England
+Competition: Non League Div One - Isthmian North, Country: England
+Competition: Non League Div One - Isthmian South Central, Country: England
+Competition: Non League Div One - Northern West, Country: England
+Competition: Non League Div One - Northern Midlands, Country: England
+Competition: Non League Div One - Southern South, Country: England
+Competition: Non League Div One - Isthmian South East, Country: England
+Competition: Non League Premier - Isthmian, Country: England
+Competition: Non League Premier - Northern, Country: England
+Competition: Non League Premier - Southern South, Country: England
+Competition: Derde Divisie - Saturday, Country: Netherlands
+Competition: Derde Divisie - Sunday, Country: Netherlands
+Competition: II Liga - East, Country: Poland
+Competition: Cup, Country: Vietnam
+Competition: Youth Championship, Country: Russia
+Competition: Regionalliga - Bayern, Country: Germany
+Competition: Regionalliga - Nord, Country: Germany
+Competition: Regionalliga - Nordost, Country: Germany
+Competition: Regionalliga - SudWest, Country: Germany
+Competition: Regionalliga - West, Country: Germany
+Competition: Serie D - Girone A, Country: Italy
+Competition: Serie D - Girone B, Country: Italy
+Competition: Serie D - Girone C, Country: Italy
+Competition: Serie D - Girone D, Country: Italy
+Competition: Serie D - Girone E, Country: Italy
+Competition: Serie D - Girone F, Country: Italy
+Competition: Serie D - Girone G, Country: Italy
+Competition: Serie D - Girone H, Country: Italy
+Competition: Serie D - Girone I, Country: Italy
+Competition: Primera División RFEF - Group 1, Country: Spain
+Competition: Primera División RFEF - Group 2, Country: Spain
+Competition: Primera División RFEF - Group 3, Country: Spain
+Competition: Primera División RFEF - Group 4, Country: Spain
+Competition: Tercera División RFEF - Group 1, Country: Spain
+Competition: Tercera División RFEF - Group 2, Country: Spain
+Competition: Tercera División RFEF - Group 3, Country: Spain
+Competition: Tercera División RFEF - Group 4, Country: Spain
+Competition: Tercera División RFEF - Group 5, Country: Spain
+Competition: Tercera División RFEF - Group 6, Country: Spain
+Competition: Tercera División RFEF - Group 7, Country: Spain
+Competition: Tercera División RFEF - Group 8, Country: Spain
+Competition: Tercera División RFEF - Group 9, Country: Spain
+Competition: Tercera División RFEF - Group 10, Country: Spain
+Competition: Tercera División RFEF - Group 11, Country: Spain
+Competition: Tercera División RFEF - Group 12, Country: Spain
+Competition: Tercera División RFEF - Group 13, Country: Spain
+Competition: Tercera División RFEF - Group 14, Country: Spain
+Competition: Tercera División RFEF - Group 15, Country: Spain
+Competition: Tercera División RFEF - Group 16, Country: Spain
+Competition: Tercera División RFEF - Group 17, Country: Spain
+Competition: Tercera División RFEF - Group 18, Country: Spain
+Competition: Campeonato de Portugal Prio - Group A, Country: Portugal
+Competition: Campeonato de Portugal Prio - Group B, Country: Portugal
+Competition: Campeonato de Portugal Prio - Group C, Country: Portugal
+Competition: Campeonato de Portugal Prio - Group D, Country: Portugal
+Competition: National 3 - Group A, Country: France
+Competition: National 3 - Group B, Country: France
+Competition: National 3 - Group C, Country: France
+Competition: National 3 - Group D, Country: France
+Competition: National 3 - Group E, Country: France
+Competition: National 3 - Group F, Country: France
+Competition: National 3 - Group H, Country: France
+Competition: National 3 - Group I, Country: France
+Competition: National 3 - Group J, Country: France
+Competition: National 3 - Group K, Country: France
+Competition: National 3 - Group L, Country: France
+Competition: National 3 - Group M, Country: France
+Competition: 2. Division - Group 1, Country: Norway
+Competition: 2. Division - Group 2, Country: Norway
+Competition: Frauenliga, Country: Austria
+Competition: Federation Cup, Country: Bahrain
+Competition: Coppa, Country: Belarus
+Competition: First Amateur Division, Country: Belgium
+Competition: USL League One, Country: USA
+Competition: Super League 2, Country: Greece
+Competition: Copa Paraguay, Country: Paraguay
+Competition: Copa Bicentenario, Country: Peru
+Competition: Copa Perú, Country: Peru
+Competition: 8 Cup, Country: South-Africa
+Competition: U21 League 1, Country: Algeria
+Competition: Trofeo de Campeones de la Superliga, Country: Argentina
+Competition: Reserve Pro League, Country: Belgium
+Competition: NISA, Country: USA
+Competition: UEFA Champions League Women, Country: World
+Competition: CAF Super Cup, Country: World
+Competition: CONCACAF Caribbean Club Shield, Country: World
+Competition: Liga 2, Country: Indonesia
+Competition: Liga 1, Country: Moldova
+Competition: Copa Chile, Country: Chile
+Competition: FA Cup, Country: China
+Competition: Copa Colombia, Country: Colombia
+Competition: Cup, Country: Belgium
+Competition: Cup, Country: Iceland
+Competition: League Cup, Country: Iceland
+Competition: FAI Cup, Country: Ireland
+Competition: League Cup, Country: Ireland
+Competition: Toto Cup Ligat Al, Country: Israel
+Competition: Copa MX, Country: Mexico
+Competition: CONMEBOL Sudamericana, Country: World
+Competition: CAF Champions League, Country: World
+Competition: CONMEBOL Libertadores, Country: World
+Competition: Schweizer Cup, Country: Switzerland
+Competition: Svenska Cupen, Country: Sweden
+Competition: Cup, Country: Slovenia
+Competition: FA Cup, Country: Scotland
+Competition: Challenge Cup, Country: Scotland
+Competition: Cup, Country: Russia
+Competition: Taça da Liga, Country: Portugal
+Competition: Cup, Country: Poland
+Competition: NM Cupen, Country: Norway
+Competition: FA Cup, Country: South-Korea
+Competition: Santosh Trophy, Country: India
+Competition: Cup, Country: Czech-Republic
+Competition: Asian Cup - Qualification, Country: World
+Competition: NWSL Women, Country: USA
+Competition: Pacific Coast Soccer League, Country: Canada
+Competition: New South Wales NPL, Country: Australia
+Competition: South Australia NPL, Country: Australia
+Competition: Victoria NPL, Country: Australia
+Competition: Western Australia NPL, Country: Australia
+Competition: Premier Division, Country: Ireland
+Competition: First Division, Country: Ireland
+Competition: Arab Club Champions Cup, Country: World
+Competition: Premier League Asia Trophy, Country: World
+Competition: Pacific Games, Country: World
+Competition: Leagues Cup, Country: World
+Competition: Sudamericano U20, Country: World
+Competition: FAI President's Cup, Country: Ireland
+Competition: Queensland NPL, Country: Australia
+Competition: Ligue A, Country: Burundi
+Competition: Curaçao Sekshon Pagá, Country: Curacao
+Competition: Copa Constitució, Country: Andorra
+Competition: Superliga, Country: Kosovo
+Competition: Cup, Country: Kosovo
+Competition: QSL Cup, Country: Qatar
+Competition: FA Women's Cup, Country: England
+Competition: Cup, Country: Egypt
+Competition: Senior Shield, Country: Hong-Kong
+Competition: Srpska Liga - Belgrade, Country: Serbia
+Competition: Srpska Liga - Vojvodina, Country: Serbia
+Competition: Srpska Liga - East, Country: Serbia
+Competition: Srpska Liga - West, Country: Serbia
+Competition: Gamma Ethniki - Group 1, Country: Greece
+Competition: Gamma Ethniki - Group 2, Country: Greece
+Competition: Gamma Ethniki - Group 3, Country: Greece
+Competition: Gamma Ethniki - Group 4, Country: Greece
+Competition: Gamma Ethniki - Group 5, Country: Greece
+Competition: Gamma Ethniki - Group 6, Country: Greece
+Competition: Gamma Ethniki - Group 7, Country: Greece
+Competition: Gamma Ethniki - Group 8, Country: Greece
+Competition: World Cup - U17, Country: World
+Competition: A Division, Country: Nepal
+Competition: 1. Liga Classic - Group 1, Country: Switzerland
+Competition: 1. Liga Classic - Group 2, Country: Switzerland
+Competition: 1. Liga Classic - Group 3, Country: Switzerland
+Competition: Baiano - 2, Country: Brazil
+Competition: Cearense - 2, Country: Brazil
+Competition: Carioca - 2, Country: Brazil
+Competition: NB III - Northeast, Country: Hungary
+Competition: NB III - Southwest, Country: Hungary
+Competition: NB III - Northwest, Country: Hungary
+Competition: Kvindeliga, Country: Denmark
+Competition: Baiano - 1, Country: Brazil
+Competition: Paraibano, Country: Brazil
+Competition: Catarinense - 1, Country: Brazil
+Competition: Paulista - A3, Country: Brazil
+Competition: Paranaense - 1, Country: Brazil
+Competition: Roraimense, Country: Brazil
+Competition: Maranhense, Country: Brazil
+Competition: Cearense - 1, Country: Brazil
+Competition: Brasiliense, Country: Brazil
+Competition: Capixaba, Country: Brazil
+Competition: Copa do Nordeste, Country: Brazil
+Competition: Paranaense - 2, Country: Brazil
+Competition: Rondoniense, Country: Brazil
+Competition: Potiguar, Country: Brazil
+Competition: Copa do Brasil U20, Country: Brazil
+Competition: São Paulo Youth Cup, Country: Brazil
+Competition: Mineiro - 2, Country: Brazil
+Competition: Piauiense, Country: Brazil
+Competition: Pernambucano - 1, Country: Brazil
+Competition: Sul-Matogrossense, Country: Brazil
+Competition: Carioca - 1, Country: Brazil
+Competition: Sergipano, Country: Brazil
+Competition: Paraense, Country: Brazil
+Competition: Goiano - 1, Country: Brazil
+Competition: Mineiro - 1, Country: Brazil
+Competition: Matogrossense, Country: Brazil
+Competition: Tocantinense, Country: Brazil
+Competition: Supercopa do Brasil, Country: Brazil
+Competition: Ýokary Liga, Country: Turkmenistan
+Competition: V.League 2, Country: Vietnam
+Competition: Super Cup, Country: Iceland
+Competition: Kansallinen Liiga, Country: Finland
+Competition: NWSL Women - Challenge Cup, Country: USA
+Competition: Coppa Titano, Country: San-Marino
+Competition: Football League - Highland League, Country: Scotland
+Competition: Football League - Lowland League, Country: Scotland
+Competition: Cup, Country: Serbia
+Competition: I Liga - Women, Country: Slovakia
+Competition: Diski Challenge, Country: South-Africa
+Competition: Copa Federacion, Country: Spain
+Competition: Svenska Cupen - Women, Country: Sweden
+Competition: League Cup, Country: Wales
+Competition: AXA Women’s Super League, Country: Switzerland
+Competition: CBF Brasileiro U20, Country: Brazil
+Competition: Brasileiro de Aspirantes, Country: Brazil
+Competition: Copa Paulista, Country: Brazil
+Competition: Oberliga - Schleswig-Holstein, Country: Germany
+Competition: Oberliga - Hamburg, Country: Germany
+Competition: Oberliga - Mittelrhein, Country: Germany
+Competition: Oberliga - Westfalen, Country: Germany
+Competition: Oberliga - Niedersachsen, Country: Germany
+Competition: Oberliga - Bremen, Country: Germany
+Competition: Oberliga - Hessen, Country: Germany
+Competition: Oberliga - Niederrhein, Country: Germany
+Competition: Oberliga - Rheinland-Pfalz / Saar, Country: Germany
+Competition: Oberliga - Baden-Württemberg, Country: Germany
+Competition: Oberliga - Nordost-Nord, Country: Germany
+Competition: Oberliga - Nordost-Süd, Country: Germany
+Competition: Cup, Country: Macedonia
+Competition: Irish Cup, Country: Northern-Ireland
+Competition: Premier Division, Country: Gibraltar
+Competition: Liga Mayor, Country: Dominican-Republic
+Competition: LFA First Division, Country: Liberia
+Competition: Cup, Country: Liechtenstein
+Competition: Premier League, Country: Mauritania
+Competition: Mauritian League, Country: Mauritius
+Competition: Premier League, Country: Mongolia
+Competition: PFL, Country: Philippines
+Competition: CONCACAF League, Country: World
+Competition: COSAFA U20 Championship, Country: World
+Competition: 3. Division - Girone 1, Country: Norway
+Competition: 3. Division - Girone 2, Country: Norway
+Competition: 3. Division - Girone 3, Country: Norway
+Competition: 3. Division - Girone 4, Country: Norway
+Competition: 3. Division - Girone 5, Country: Norway
+Competition: 3. Division - Girone 6, Country: Norway
+Competition: III Liga - Group 1, Country: Poland
+Competition: III Liga - Group 2, Country: Poland
+Competition: III Liga - Group 3, Country: Poland
+Competition: III Liga - Group 4, Country: Poland
+Competition: Liga III - Serie 1, Country: Romania
+Competition: Liga III - Serie 2, Country: Romania
+Competition: Liga III - Serie 3, Country: Romania
+Competition: Liga III - Serie 4, Country: Romania
+Competition: Liga III - Serie 5, Country: Romania
+Competition: Liga III - Serie 6, Country: Romania
+Competition: Liga III - Serie 7, Country: Romania
+Competition: Liga III - Serie 8, Country: Romania
+Competition: Liga III - Serie 9, Country: Romania
+Competition: Liga III - Serie 10, Country: Romania
+Competition: 3. SNL - East, Country: Slovenia
+Competition: 3. SNL - West, Country: Slovenia
+Competition: 2. Liga Interregional - Group 1, Country: Switzerland
+Competition: 2. Liga Interregional - Group 2, Country: Switzerland
+Competition: 2. Liga Interregional - Group 3, Country: Switzerland
+Competition: 2. Liga Interregional - Group 4, Country: Switzerland
+Competition: 2. Liga Interregional - Group 5, Country: Switzerland
+Competition: 2. Liga Interregional - Group 6, Country: Switzerland
+Competition: Cup, Country: Uzbekistan
+Competition: Super Cup, Country: Andorra
+Competition: Super Copa, Country: Argentina
+Competition: Federation Cup, Country: Bangladesh
+Competition: Elite Two, Country: Cameroon
+Competition: Shield Cup, Country: Jordan
+Competition: Super Cup Primavera, Country: Italy
+Competition: Super Cup, Country: Kosovo
+Competition: Crown Prince Cup, Country: Kuwait
+Competition: FA Trophy, Country: Malta
+Competition: Cup, Country: Morocco
+Competition: Ligue 2, Country: Tunisia
+Competition: Youth League, Country: Turkmenistan
+Competition: Super Cup, Country: Uzbekistan
+Competition: Coupe de la Ligue, Country: Algeria
+Competition: Rock Cup, Country: Gibraltar
+Competition: Super Cup, Country: Jordan
+Competition: Taça Revelação U23, Country: Portugal
+Competition: QFA Cup, Country: Qatar
+Competition: Copa Verde, Country: Brazil
+Competition: Ligue 1, Country: Congo
+Competition: GFA League, Country: Gambia
+Competition: Premier League, Country: Eswatini
+Competition: Baltic Cup, Country: World
+Competition: Paulista - A1, Country: Brazil
+Competition: Paulista - A2, Country: Brazil
+Competition: Gaúcho - 1, Country: Brazil
+Competition: Gaúcho - 2, Country: Brazil
+Competition: Canadian Premier League, Country: Canada
+Competition: Copa de la Superliga, Country: Argentina
+Competition: FA Cup, Country: Malaysia
+Competition: AFC U23 Asian Cup, Country: World
+Competition: CONCACAF Nations League, Country: World
+Competition: Africa Cup of Nations U20, Country: World
+Competition: CONMEBOL Libertadores U20, Country: World
+Competition: CONMEBOL Recopa, Country: World
+Competition: Iraqi League, Country: Iraq
+Competition: Cup, Country: Jordan
+Competition: Olympics Men - Qualification Concacaf, Country: World
+Competition: Olympics Women - Qualification Asia, Country: World
+Competition: Campeones Cup, Country: World
+Competition: Super Cup, Country: Japan
+Competition: Damallsvenskan, Country: Sweden
+Competition: Supercopa, Country: Peru
+Competition: Reserve League, Country: Belarus
+Competition: Liga Primera U20, Country: Nicaragua
+Competition: 3. liga - Bratislava, Country: Slovakia
+Competition: 3. liga - West, Country: Slovakia
+Competition: 3. liga - East, Country: Slovakia
+Competition: 3. liga - Center, Country: Slovakia
+Competition: Lao League, Country: Laos
+Competition: Tasmania NPL, Country: Australia
+Competition: Supreme Division Women, Country: Russia
+Competition: Second League - Group 3, Country: Russia
+Competition: Second League - Group 1, Country: Russia
+Competition: Second League - Group 2, Country: Russia
+Competition: Second League - Group 4, Country: Russia
+Competition: Super Cup, Country: Armenia
+Competition: Super Cup, Country: Bulgaria
+Competition: Cup, Country: Estonia
+Competition: Cup, Country: Latvia
+Competition: Super Cup, Country: Israel
+Competition: WK-League, Country: South-Korea
+Competition: Cup, Country: Lithuania
+Competition: Copa por México, Country: Mexico
+Competition: Super Cup, Country: Russia
+Competition: Friendlies Women, Country: World
+Competition: Friendlies Clubs, Country: World
+Competition: 1. Liga U19, Country: Czech-Republic
+Competition: 1. Liga Women, Country: Czech-Republic
+Competition: Community Shield Women, Country: England
+Competition: Úrvalsdeild Women, Country: Iceland
+Competition: David Kipiani Cup, Country: Georgia
+Competition: Liga MX Femenil, Country: Mexico
+Competition: Cupa, Country: Moldova
+Competition: U21 Divisie 1, Country: Netherlands
+Competition: Central Youth League, Country: Poland
+Competition: Super Cup, Country: Ukraine
+Competition: U21 League, Country: Ukraine
+Competition: Cup, Country: Slovakia
+Competition: Campeonato de Portugal Prio - Group E, Country: Portugal
+Competition: Campeonato de Portugal Prio - Group F, Country: Portugal
+Competition: Campeonato de Portugal Prio - Group G, Country: Portugal
+Competition: Campeonato de Portugal Prio - Group H, Country: Portugal
+Competition: 3. liga - CFL B, Country: Czech-Republic
+Competition: 4. liga - Divizie F, Country: Czech-Republic
+Competition: Regionalliga - Tirol, Country: Austria
+Competition: Regionalliga - Salzburg, Country: Austria
+Competition: Third Amateur Division - ACFF A, Country: Belgium
+Competition: Third Amateur Division - ACFF B, Country: Belgium
+Competition: Provincial - Brabant ACFF, Country: Belgium
+Competition: Primera División RFEF - Group 5, Country: Spain
+Competition: Gamma Ethniki - Group 9, Country: Greece
+Competition: Gamma Ethniki - Group 10, Country: Greece
+Competition: U18 Premier League - North, Country: England
+Competition: U18 Premier League - South, Country: England
+Competition: WSL Cup, Country: England
+Competition: Women's Championship, Country: England
+Competition: Kakkosen Cup, Country: Finland
+Competition: Liga Revelação U23, Country: Portugal
+Competition: Premier League 2 Division One, Country: England
+Competition: Professional Development League, Country: England
+Competition: Coppa Italia Primavera, Country: Italy
+Competition: Campionato Primavera - 1, Country: Italy
+Competition: Campionato Primavera - 2, Country: Italy
+Competition: Cup, Country: Albania
+Competition: Super Cup, Country: Albania
+Competition: Cup, Country: Armenia
+Competition: Nacional B, Country: Bolivia
+Competition: Segunda División, Country: Chile
+Competition: Liga Femenina, Country: Colombia
+Competition: Superliga, Country: Colombia
+Competition: DFB Junioren Pokal, Country: Germany
+Competition: I-League - 2nd Division, Country: India
+Competition: Super Cup, Country: Kuwait
+Competition: Emir Cup, Country: Kuwait
+Competition: Cup, Country: Luxembourg
+Competition: Liga Premier Serie A, Country: Mexico
+Competition: Cup, Country: Montenegro
+Competition: U18 Divisie 1, Country: Netherlands
+Competition: Sultan Cup, Country: Oman
+Competition: Super Cup, Country: Poland
+Competition: Liga 1 Feminin, Country: Romania
+Competition: Toppserien, Country: Norway
+Competition: Elitettan, Country: Sweden
+Competition: UEFA Championship - Women, Country: World
+Competition: Super Cup, Country: Belarus
+Competition: Reykjavik Cup, Country: Iceland
+Competition: Fotbolti.net Cup A, Country: Iceland
+Competition: Super Cup, Country: Kazakhstan
+Competition: Nasjonal U19 Champions League, Country: Norway
+Competition: Emir Cup, Country: Qatar
+Competition: Qatar Cup, Country: Qatar
+Competition: Super Cup, Country: Saudi-Arabia
+Competition: Super Cup, Country: Vietnam
+Competition: Queensland Premier League, Country: Australia
+Competition: South Australia State League 1, Country: Australia
+Competition: New South Wales NPL 2, Country: Australia
+Competition: Victoria NPL 2, Country: Australia
+Competition: Super Cup, Country: Lithuania
+Competition: Super Copa, Country: Uruguay
+Competition: Somali Premier League, Country: Somalia
+Competition: UEFA Europa Conference League, Country: World
+Competition: Carioca A2, Country: Brazil
+Competition: Super Cup, Country: Cyprus
+Competition: Supercopa de Ecuador, Country: Ecuador
+Competition: WE League, Country: Japan
+Competition: Dhivehi Premier League, Country: Maldives
+Competition: CONCACAF Caribbean Club Championship, Country: World
+Competition: Campeón de Campeones, Country: Mexico
+Competition: CONCACAF Gold Cup - Qualification, Country: World
+Competition: COSAFA Cup, Country: World
+Competition: Arab Cup, Country: World
+Competition: Youth Viareggio Cup, Country: World
+Competition: U20 League, Country: Mexico
+Competition: 3. Division, Country: Denmark
+Competition: Supercopa, Country: Costa-Rica
+Competition: Liga 3, Country: Portugal
+Competition: MLS All-Star, Country: USA
+Competition: Coppa Italia Serie C, Country: Italy
+Competition: Premier League, Country: Pakistan
+Competition: CECAFA Club Cup, Country: World
+Competition: Premier League, Country: Crimea
+Competition: Premier League Cup, Country: England
+Competition: Liga Premier Serie B, Country: Mexico
+Competition: Thai Champions Cup, Country: Thailand
+Competition: Australia Cup, Country: Australia
+Competition: Segunda División RFEF - Group 1, Country: Spain
+Competition: Segunda División RFEF - Group 2, Country: Spain
+Competition: Segunda División RFEF - Group 3, Country: Spain
+Competition: Segunda División RFEF - Group 4, Country: Spain
+Competition: Segunda División RFEF - Group 5, Country: Spain
+Competition: World Cup - Women - Qualification Europe, Country: World
+Competition: Reserve League, Country: Netherlands
+Competition: Super Cup, Country: San-Marino
+Competition: Second League, Country: Egypt
+Competition: Second League - Group B, Country: Egypt
+Competition: Second League - Group C, Country: Egypt
+Competition: U20 Elite League, Country: World
+Competition: Coppa Italia Serie D, Country: Italy
+Competition: Copa Paulino Alcantara, Country: Philippines
+Competition: League Cup, Country: Egypt
+Competition: Super Cup, Country: United-Arab-Emirates
+Competition: League Cup, Country: Thailand
+Competition: Algarve Cup, Country: World
+Competition: The Atlantic Cup, Country: World
+Competition: Super Cup, Country: Iran
+Competition: Africa Cup of Nations - Qualification, Country: World
+Competition: Super Cup, Country: Oman
+Competition: International Champions Cup - Women, Country: World
+Competition: Second NL, Country: Croatia
+Competition: DFB Pokal - Women, Country: Germany
+Competition: 1a Divisão - Women, Country: Portugal
+Competition: CONMEBOL Libertadores Femenina, Country: World
+Competition: World Cup - U17 - Women, Country: World
+Competition: South American Youth Games, Country: World
+Competition: AFC U23 Asian Cup - Qualification, Country: World
+Competition: Africa U23 Cup of Nations - Qualification, Country: World
+Competition: National League - Central, Country: New-Zealand
+Competition: National League - National, Country: New-Zealand
+Competition: National League - Northern, Country: New-Zealand
+Competition: National League - Southern, Country: New-Zealand
+Competition: Copa Costa Rica, Country: Costa-Rica
+Competition: Cup, Country: Singapore
+Competition: Supercopa, Country: Paraguay
+Competition: Premier League, Country: Lesotho
+Competition: Cup, Country: Ghana
+Competition: Cup, Country: Lebanon
+Competition: Championnat D1, Country: Gabon
+Competition: Shield Cup, Country: Kenya
+Competition: Serie C - Relegation - Play-offs, Country: Italy
+Competition: Serie C - Promotion - Play-offs, Country: Italy
+Competition: Serie C - Supercoppa Lega Finals, Country: Italy
+Competition: Tercera División RFEF - Promotion - Play-offs, Country: Spain
+Competition: 2nd Division - Play-offs, Country: Albania
+Competition: Provincial - Play-offs VV, Country: Belgium
+Competition: Provincial - Play-offs ACFF, Country: Belgium
+Competition: Third Amateur Division - Play-offs, Country: Belgium
+Competition: Denmark Series - Promotion Round, Country: Denmark
+Competition: Denmark Series - Relegation Round, Country: Denmark
+Competition: National League - North - Play-offs, Country: England
+Competition: National League - South - Play-offs, Country: England
+Competition: Non League Div One - Play-offs, Country: England
+Competition: U18 Premier League - Championship, Country: England
+Competition: Oberliga - Promotion Round, Country: Germany
+Competition: Oberliga - Relegation Round, Country: Germany
+Competition: Gamma Ethniki - Promotion Group, Country: Greece
+Competition: Campeonato de Portugal Prio - Promotion Round, Country: Portugal
+Competition: Football League - Championship, Country: Scotland
+Competition: Non League Premier - Isthmian - Play-offs, Country: England
+Competition: Non League Premier - Northern - Play-offs, Country: England
+Competition: Non League Premier - Southern South - Play-offs, Country: England
+Competition: Non League Premier - Southern Central - Play-offs, Country: England
+Competition: Serie D - Promotion - Play-offs, Country: Italy
+Competition: Serie D - Relegation - Play-offs, Country: Italy
+Competition: Serie D - Championship Round, Country: Italy
+Competition: Segunda División RFEF - Play-offs, Country: Spain
+Competition: Regionalliga - Promotion Play-offs, Country: Germany
+Competition: Regionalliga - Relegation Round, Country: Germany
+Competition: Derde Divisie - Relegation Round, Country: Netherlands
+Competition: 1. Liga Classic - Play-offs, Country: Switzerland
+Competition: Primera División RFEF - Play Offs, Country: Spain
+Competition: 3. Lig - Play-offs, Country: Turkey
+Competition: UEFA U17 Championship - Qualification, Country: World
+Competition: UEFA U19 Championship - Qualification, Country: World
+Competition: Asian Cup Women - Qualification, Country: World
+Competition: Asian Cup Women, Country: World
+Competition: League Cup, Country: Finland
+Competition: Tipsport Malta Cup, Country: World
+Competition: Ykköscup, Country: Finland
+Competition: SheBelieves Cup, Country: World
+Competition: Reserve League, Country: Argentina
+Competition: Primera Division, Country: Cuba
+Competition: AFF U23 Championship, Country: World
+Competition: Liga III - Play-offs, Country: Romania
+Competition: 3. liga - Promotion Play-off, Country: Czech-Republic
+Competition: Second Amateur Division - Play-offs , Country: Belgium
+Competition: Second League - Play-offs, Country: Egypt
+Competition: CAC Games, Country: World
+Competition: MLS Next Pro, Country: USA
+Competition: Southeast Asian Games, Country: World
+Competition: CONCACAF Women U17, Country: World
+Competition: CONMEBOL - UEFA Finalissima, Country: World
+Competition: Tournoi Maurice Revello, Country: World
+Competition: 1. Division Women, Country: Norway
+Competition: Kirin Cup, Country: World
+Competition: Copa Ecuador, Country: Ecuador
+Competition: UEFA U19 Championship - Women, Country: World
+Competition: Mediterranean Games, Country: World
+Competition: World Cup - U20 - Women, Country: World
+Competition: UEFA U17 Championship, Country: World
+Competition: Africa Cup of Nations - Women, Country: World
+Competition: League 1 Ontario, Country: Canada
+Competition: Piala Presiden, Country: Indonesia
+Competition: Copa America Femenina, Country: World
+Competition: World Cup - Women - Qualification Concacaf, Country: World
+Competition: AFF U19 Championship, Country: World
+Competition: League Two, Country: China
+Competition: Copa Uruguay, Country: Uruguay
+Competition: Non League Premier - Southern Central, Country: England
+Competition: Non League Div One - Northern East, Country: England
+Competition: Non League Div One - Southern Central, Country: England
+Competition: Arab Championship - U20, Country: World
+Competition: Diski Shield, Country: South-Africa
+Competition: Catarinense - 2, Country: Brazil
+Competition: Emirates Cup, Country: World
+Competition: Oberliga - Bayern Nord, Country: Germany
+Competition: Oberliga - Bayern Süd, Country: Germany
+Competition: COTIF Tournament, Country: World
+Competition: Islamic Solidarity Games, Country: World
+Competition: Premier League International Cup, Country: World
+Competition: UEFA Nations League - Women, Country: World
+Competition: Júniores U19, Country: Portugal
+Competition: Super Cup, Country: Gibraltar
+Competition: African Football League, Country: World
+Competition: Erste Liga Cup, Country: Switzerland
+Competition: Pan American Games, Country: World
+Competition: Premier Division, Country: Antigua-And-Barbuda
+Competition: King's Cup, Country: Bahrain
+Competition: Super Cup, Country: Malta
+Competition: Kakkonen - Play-offs, Country: Finland
+Competition: Division 2 - Play-offs, Country: Sweden
+Competition: 2. Division - Play-offs, Country: Norway
+Competition: Ettan - Relegation Round, Country: Sweden
+Competition: National League - Championship - Final, Country: New-Zealand
+Competition: Supercopa Femenina, Country: Spain
+Competition: Second League A - Spring Season Gold, Country: Russia
+Competition: Second League A - Spring Season Silver, Country: Russia
+Competition: U19 League, Country: Ukraine
+Competition: FA Youth Cup, Country: England
+Competition: All Africa Games, Country: World
+Competition: SWPL Cup, Country: Scotland
+Competition: SWF Scottish Cup, Country: Scotland
+Competition: Yemeni League, Country: Yemen
+Competition: Premier Division, Country: Grenada
+Competition: Championnat National, Country: Togo
+Competition: Gamma Ethniki - Relegation Play-offs, Country: Greece
+Competition: Super Cup, Country: Bahrain
+Competition: NB III - Promotion Play-offs, Country: Hungary
+Competition: Second League A - Promotion Play-offs, Country: Russia
+Competition: Euro Championship - Qualification, Country: World
+Competition: CONCACAF U17, Country: World
+Competition: Copa de la División Profesional, Country: Bolivia
+Competition: AFC U20 Asian Cup, Country: World
+Competition: Primeira Divisão, Country: Macao
+Competition: CONMEBOL - U17, Country: World
+Competition: Super Cup, Country: China
+Competition: CAF Cup of Nations - U17, Country: World
+Competition: CAFA Nations Cup, Country: World
+Competition: AFC U17 Asian Cup, Country: World
+Competition: All-Island Cup - Women, Country: World
+Competition: CAF U23 Cup of Nations, Country: World
+Competition: U23 League, Country: Mexico
+Competition: Federation Cup, Country: Lebanon
+Competition: Charity Shield, Country: Northern-Ireland
+Competition: Calcutta Premier Division, Country: India
+Competition: Super Cup, Country: Croatia
+Competition: Premier League - Summer Series, Country: England
+Competition: NB III - Southeast, Country: Hungary
+Competition: UEFA - CONMEBOL - Club Challenge, Country: World
+Competition: Second League A - Fall Season Gold, Country: Russia
+Competition: Second League A - Fall Season Silver, Country: Russia
+Competition: 3. Lig - Group 4, Country: Turkey
+Competition: Concacaf Central American Cup, Country: World
+Competition: National 3 - Group G, Country: France
+Competition: Goiano - 2, Country: Brazil
+Competition: Premier League, Country: Bhutan
+Competition: Copa de la Liga Profesional, Country: Argentina
+Competition: Ekstraliga Women, Country: Poland
+Competition: 2. Frauen Bundesliga, Country: Germany
+Competition: Copa Rio, Country: Brazil
+Competition: Copa Santa Catarina, Country: Brazil
+Competition: Paraibano 2, Country: Brazil
+Competition: King's Cup, Country: World
+Competition: UEFA U21 Championship - Qualification, Country: World
+Competition: National League Cup, Country: England
+Competition: Paraense U20, Country: Brazil
+Competition: Copa Gaúcha, Country: Brazil
+Competition: CECAFA U20 Championship, Country: World
+Competition: Sapling Cup, Country: Hong-Kong
+Competition: AFC U17 Asian Cup - Qualification, Country: World
+Competition: AGCFF Gulf Champions League, Country: World
+Competition: African Nations Championship - Qualification, Country: World
+Competition: U19 Divisie 1, Country: Netherlands
+Competition: Potiguar - 2, Country: Brazil
+Competition: Gaúcho - 3, Country: Brazil
+Competition: Pernambucano - 3, Country: Brazil
+Competition: AFC U20 Asian Cup - Qualification, Country: World
+Competition: Catarinense - 3, Country: Brazil
+Competition: Carioca B2, Country: Brazil
+Competition: CONCACAF Women U20, Country: World
+Competition: CONCACAF Gold Cup - Qualification - Women, Country: World
+Competition: Olympics Women - Qualification CAF, Country: World
+Competition: HKPL Cup, Country: Hong-Kong
+Competition: CONCACAF Gold Cup - Women, Country: World
+Competition: Recopa Catarinense, Country: Brazil
+Competition: CONMEBOL - Pre-Olympic Tournament, Country: World
+Competition: Paulista - A4, Country: Brazil
+Competition: Copa Alagoas, Country: Brazil
+Competition: CONCACAF U20 - Qualification, Country: World
+Competition: Torneo Promocional Amateur, Country: Argentina
+Competition: Goiano U20, Country: Brazil
+Competition: AFC U20 Asian Cup - Women, Country: World
+Competition: Paranaense U20, Country: Brazil
+Competition: Baiano U20, Country: Brazil
+Competition: Pro League A, Country: Uzbekistan
+Competition: Catarinense U20, Country: Brazil
+Competition: WAFF Championship U23, Country: World
+Competition: CONMEBOL - U17 Femenino, Country: World
+Competition: Copa Rio U20, Country: Brazil
+Competition: CONMEBOL U20 Femenino, Country: World
+Competition: Paulista - U20, Country: Brazil
+Competition: Ykkösliiga, Country: Finland
+Competition: Pernambucano - U20, Country: Brazil
+Competition: UAE-Qatar - Super Shield, Country: World
+Competition: NNSW League 1, Country: Australia
+Competition: Tasmania Northern Championship, Country: Australia
+Competition: Capital Territory NPL 2, Country: Australia
+Competition: Tasmania Southern Championship, Country: Australia
+Competition: Western Australia State League 1, Country: Australia
+Competition: USL League One Cup, Country: USA
+Competition: Matogrossense 2, Country: Brazil
+Competition: Copa Espírito Santo, Country: Brazil
+Competition: Paulista Série B, Country: Brazil
+Competition: Brasiliense U20, Country: Brazil
+Competition: AFC U17 Asian Cup - Women, Country: World
+Competition: UEFA U17 Championship - Women, Country: World
+Competition: Premiership Women, Country: Northern-Ireland
+Competition: Liga 3, Country: Georgia
+Competition: Olympics - Intercontinental Play-offs, Country: World
+Competition: Carioca C, Country: Brazil
+Competition: Mineiro U20, Country: Brazil
+Competition: Sergipano U20, Country: Brazil
+Competition: Alagoano U20, Country: Brazil
+Competition: Cearense U20, Country: Brazil
+Competition: Copa Venezuela, Country: Venezuela
+Competition: Carioca U20, Country: Brazil
+Competition: Paraense B2, Country: Brazil
+Competition: WPSL, Country: USA
+Competition: USL W League, Country: USA
+Competition: NPSL, Country: USA
+Competition: NWSL - Liga MXF Summer Cup, Country: USA
+Competition: Paraibano U20, Country: Brazil
+Competition: OFC U19 Championship, Country: World
+Competition: Qatar-UAE Super Cup, Country: World
+Competition: Cearense - 3, Country: Brazil
+Competition: Pernambucano - 2, Country: Brazil
+Competition: Esiliiga B, Country: Estonia
+Competition: Chatham Cup, Country: New-Zealand
+Competition: Brasileiro U17, Country: Brazil
+Competition: ASEAN Club Championship, Country: World
+Competition: USL Super League, Country: USA
+Competition: Super Cup, Country: Mongolia
+Competition: AFC Challenge League, Country: World
+Competition: Goiano - 3, Country: Brazil
+Competition: Amazonense - 2, Country: Brazil
+Competition: Sergipano - 2, Country: Brazil
+Competition: CONCACAF W Champions Cup, Country: World
+Competition: Supercup der Frauen, Country: Germany
+Competition: Paranaense - 3, Country: Brazil
+Competition: Potiguar - U20, Country: Brazil
+Competition: AFC Women's Champions League, Country: World
+Competition: Brasiliense B, Country: Brazil
+Competition: Mineiro - 3, Country: Brazil
+Competition: Estadual Junior U20, Country: Brazil
+Competition: Super Cup, Country: Ghana
+Competition: Paraense B1, Country: Brazil
+Competition: Alagoano - 2, Country: Brazil
+Competition: Maranhense - 2, Country: Brazil
+Competition: UEFA Championship - Women - Qualification, Country: World
+Competition: Capixaba B, Country: Brazil

@@ -1,0 +1,1504 @@
+World
+  - Euro Championship
+  - Confederations Cup
+  - World Cup
+  - Asian Games
+  - Caribbean Cup
+  - UEFA Champions League
+  - Asian Cup
+  - World Cup - Women
+  - FIFA Intercontinental Cup
+  - Olympics Men
+  - CECAFA Senior Challenge Cup
+  - SAFF Championship
+  - UEFA Europa League
+  - World Cup - Qualification Intercontinental Play-offs
+  - AFC Challenge Cup
+  - African Nations Championship
+  - AFF Championship
+  - CONCACAF Gold Cup
+  - EAFF E-1 Football Championship
+  - OFC Champions League
+  - Africa Cup of Nations
+  - Copa America
+  - Olympics Women
+  - UEFA Super Cup
+  - CONCACAF Champions League
+  - AFC Champions League
+  - Gulf Cup of Nations
+  - International Champions Cup
+  - Copa Centroamericana
+  - OFC Nations Cup
+  - China Cup
+  - Friendlies
+  - UEFA Youth League
+  - AFC Cup
+  - CAF Confederation Cup
+  - UEFA U21 Championship
+  - World Cup - U20
+  - UEFA Nations League
+  - CONCACAF Nations League - Qualification
+  - World Cup - Qualification CONCACAF
+  - World Cup - Qualification Europe
+  - World Cup - Qualification Oceania
+  - World Cup - Qualification South America
+  - World Cup - Qualification Africa
+  - World Cup - Qualification Asia
+  - UEFA U19 Championship
+  - CONCACAF U20
+  - UEFA Champions League Women
+  - CAF Super Cup
+  - CONCACAF Caribbean Club Shield
+  - CONMEBOL Sudamericana
+  - CAF Champions League
+  - CONMEBOL Libertadores
+  - Asian Cup - Qualification
+  - Arab Club Champions Cup
+  - Premier League Asia Trophy
+  - Pacific Games
+  - Leagues Cup
+  - Sudamericano U20
+  - World Cup - U17
+  - CONCACAF League
+  - COSAFA U20 Championship
+  - Baltic Cup
+  - AFC U23 Asian Cup
+  - CONCACAF Nations League
+  - Africa Cup of Nations U20
+  - CONMEBOL Libertadores U20
+  - CONMEBOL Recopa
+  - Olympics Men - Qualification Concacaf
+  - Olympics Women - Qualification Asia
+  - Campeones Cup
+  - Friendlies Women
+  - Friendlies Clubs
+  - UEFA Championship - Women
+  - UEFA Europa Conference League
+  - CONCACAF Caribbean Club Championship
+  - CONCACAF Gold Cup - Qualification
+  - COSAFA Cup
+  - Arab Cup
+  - Youth Viareggio Cup
+  - CECAFA Club Cup
+  - World Cup - Women - Qualification Europe
+  - U20 Elite League
+  - Algarve Cup
+  - The Atlantic Cup
+  - Africa Cup of Nations - Qualification
+  - International Champions Cup - Women
+  - CONMEBOL Libertadores Femenina
+  - World Cup - U17 - Women
+  - South American Youth Games
+  - AFC U23 Asian Cup - Qualification
+  - Africa U23 Cup of Nations - Qualification
+  - UEFA U17 Championship - Qualification
+  - UEFA U19 Championship - Qualification
+  - Asian Cup Women - Qualification
+  - Asian Cup Women
+  - Tipsport Malta Cup
+  - SheBelieves Cup
+  - AFF U23 Championship
+  - CAC Games
+  - Southeast Asian Games
+  - CONCACAF Women U17
+  - CONMEBOL - UEFA Finalissima
+  - Tournoi Maurice Revello
+  - Kirin Cup
+  - UEFA U19 Championship - Women
+  - Mediterranean Games
+  - World Cup - U20 - Women
+  - UEFA U17 Championship
+  - Africa Cup of Nations - Women
+  - Copa America Femenina
+  - World Cup - Women - Qualification Concacaf
+  - AFF U19 Championship
+  - Arab Championship - U20
+  - Emirates Cup
+  - COTIF Tournament
+  - Islamic Solidarity Games
+  - Premier League International Cup
+  - UEFA Nations League - Women
+  - African Football League
+  - Pan American Games
+  - All Africa Games
+  - Euro Championship - Qualification
+  - CONCACAF U17
+  - AFC U20 Asian Cup
+  - CONMEBOL - U17
+  - CAF Cup of Nations - U17
+  - CAFA Nations Cup
+  - AFC U17 Asian Cup
+  - All-Island Cup - Women
+  - CAF U23 Cup of Nations
+  - UEFA - CONMEBOL - Club Challenge
+  - Concacaf Central American Cup
+  - King's Cup
+  - UEFA U21 Championship - Qualification
+  - CECAFA U20 Championship
+  - AFC U17 Asian Cup - Qualification
+  - AGCFF Gulf Champions League
+  - African Nations Championship - Qualification
+  - AFC U20 Asian Cup - Qualification
+  - CONCACAF Women U20
+  - CONCACAF Gold Cup - Qualification - Women
+  - Olympics Women - Qualification CAF
+  - CONCACAF Gold Cup - Women
+  - CONMEBOL - Pre-Olympic Tournament
+  - CONCACAF U20 - Qualification
+  - AFC U20 Asian Cup - Women
+  - WAFF Championship U23
+  - CONMEBOL - U17 Femenino
+  - CONMEBOL U20 Femenino
+  - UAE-Qatar - Super Shield
+  - AFC U17 Asian Cup - Women
+  - UEFA U17 Championship - Women
+  - Olympics - Intercontinental Play-offs
+  - OFC U19 Championship
+  - Qatar-UAE Super Cup
+  - ASEAN Club Championship
+  - AFC Challenge League
+  - CONCACAF W Champions Cup
+  - AFC Women's Champions League
+  - UEFA Championship - Women - Qualification
+
+France
+  - Ligue 1
+  - Ligue 2
+  - National 1
+  - Coupe de France
+  - Coupe de la Ligue
+  - National 2 - Group A
+  - National 2 - Group B
+  - National 2 - Group C
+  - National 2 - Group D
+  - Trophée des Champions
+  - Feminine Division 1
+  - National 3 - Group A
+  - National 3 - Group B
+  - National 3 - Group C
+  - National 3 - Group D
+  - National 3 - Group E
+  - National 3 - Group F
+  - National 3 - Group H
+  - National 3 - Group I
+  - National 3 - Group J
+  - National 3 - Group K
+  - National 3 - Group L
+  - National 3 - Group M
+  - National 3 - Group G
+
+Belgium
+  - Jupiler Pro League
+  - Super Cup
+  - Challenger Pro League
+  - Super League Women
+  - Second Amateur Division - VFV A
+  - Second Amateur Division - VFV B
+  - Third Amateur Division - VFV A
+  - Third Amateur Division - VFV B
+  - Second Amateur Division - ACFF
+  - Provincial - Antwerpen
+  - Provincial - Brabant VFV
+  - Provincial - Hainaut
+  - Provincial - Liege
+  - Provincial - Limburg
+  - Provincial - Luxembourg
+  - Provincial - Namur
+  - Provincial - Oost-Vlaanderen
+  - Provincial - West-Vlaanderen
+  - First Amateur Division
+  - Reserve Pro League
+  - Cup
+  - Third Amateur Division - ACFF A
+  - Third Amateur Division - ACFF B
+  - Provincial - Brabant ACFF
+  - Provincial - Play-offs VV
+  - Provincial - Play-offs ACFF
+  - Third Amateur Division - Play-offs
+  - Second Amateur Division - Play-offs 
+
+Brazil
+  - Serie A
+  - Serie B
+  - Serie C
+  - Serie D
+  - Acreano
+  - Amapaense
+  - Amazonense
+  - Copa Do Brasil
+  - Brasileiro Women
+  - Alagoano
+  - Baiano - 2
+  - Cearense - 2
+  - Carioca - 2
+  - Baiano - 1
+  - Paraibano
+  - Catarinense - 1
+  - Paulista - A3
+  - Paranaense - 1
+  - Roraimense
+  - Maranhense
+  - Cearense - 1
+  - Brasiliense
+  - Capixaba
+  - Copa do Nordeste
+  - Paranaense - 2
+  - Rondoniense
+  - Potiguar
+  - Copa do Brasil U20
+  - São Paulo Youth Cup
+  - Mineiro - 2
+  - Piauiense
+  - Pernambucano - 1
+  - Sul-Matogrossense
+  - Carioca - 1
+  - Sergipano
+  - Paraense
+  - Goiano - 1
+  - Mineiro - 1
+  - Matogrossense
+  - Tocantinense
+  - Supercopa do Brasil
+  - CBF Brasileiro U20
+  - Brasileiro de Aspirantes
+  - Copa Paulista
+  - Copa Verde
+  - Paulista - A1
+  - Paulista - A2
+  - Gaúcho - 1
+  - Gaúcho - 2
+  - Carioca A2
+  - Catarinense - 2
+  - Goiano - 2
+  - Copa Rio
+  - Copa Santa Catarina
+  - Paraibano 2
+  - Paraense U20
+  - Copa Gaúcha
+  - Potiguar - 2
+  - Gaúcho - 3
+  - Pernambucano - 3
+  - Catarinense - 3
+  - Carioca B2
+  - Recopa Catarinense
+  - Paulista - A4
+  - Copa Alagoas
+  - Goiano U20
+  - Paranaense U20
+  - Baiano U20
+  - Catarinense U20
+  - Copa Rio U20
+  - Paulista - U20
+  - Pernambucano - U20
+  - Matogrossense 2
+  - Copa Espírito Santo
+  - Paulista Série B
+  - Brasiliense U20
+  - Carioca C
+  - Mineiro U20
+  - Sergipano U20
+  - Alagoano U20
+  - Cearense U20
+  - Carioca U20
+  - Paraense B2
+  - Paraibano U20
+  - Cearense - 3
+  - Pernambucano - 2
+  - Brasileiro U17
+  - Goiano - 3
+  - Amazonense - 2
+  - Sergipano - 2
+  - Paranaense - 3
+  - Potiguar - U20
+  - Brasiliense B
+  - Mineiro - 3
+  - Estadual Junior U20
+  - Paraense B1
+  - Alagoano - 2
+  - Maranhense - 2
+  - Capixaba B
+
+England
+  - Premier League
+  - Championship
+  - EFL Trophy
+  - FA Cup
+  - FA Trophy
+  - League Cup
+  - National League
+  - League One
+  - League Two
+  - Community Shield
+  - FA WSL
+  - National League - Play-offs
+  - National League - North
+  - National League - South
+  - Non League Div One - Isthmian North
+  - Non League Div One - Isthmian South Central
+  - Non League Div One - Northern West
+  - Non League Div One - Northern Midlands
+  - Non League Div One - Southern South
+  - Non League Div One - Isthmian South East
+  - Non League Premier - Isthmian
+  - Non League Premier - Northern
+  - Non League Premier - Southern South
+  - FA Women's Cup
+  - Community Shield Women
+  - U18 Premier League - North
+  - U18 Premier League - South
+  - WSL Cup
+  - Women's Championship
+  - Premier League 2 Division One
+  - Professional Development League
+  - Premier League Cup
+  - National League - North - Play-offs
+  - National League - South - Play-offs
+  - Non League Div One - Play-offs
+  - U18 Premier League - Championship
+  - Non League Premier - Isthmian - Play-offs
+  - Non League Premier - Northern - Play-offs
+  - Non League Premier - Southern South - Play-offs
+  - Non League Premier - Southern Central - Play-offs
+  - Non League Premier - Southern Central
+  - Non League Div One - Northern East
+  - Non League Div One - Southern Central
+  - FA Youth Cup
+  - Premier League - Summer Series
+  - National League Cup
+
+Germany
+  - Bundesliga
+  - 2. Bundesliga
+  - 3. Liga
+  - Super Cup
+  - DFB Pokal
+  - Frauen Bundesliga
+  - U19 Bundesliga
+  - Regionalliga - Bayern
+  - Regionalliga - Nord
+  - Regionalliga - Nordost
+  - Regionalliga - SudWest
+  - Regionalliga - West
+  - Oberliga - Schleswig-Holstein
+  - Oberliga - Hamburg
+  - Oberliga - Mittelrhein
+  - Oberliga - Westfalen
+  - Oberliga - Niedersachsen
+  - Oberliga - Bremen
+  - Oberliga - Hessen
+  - Oberliga - Niederrhein
+  - Oberliga - Rheinland-Pfalz / Saar
+  - Oberliga - Baden-Württemberg
+  - Oberliga - Nordost-Nord
+  - Oberliga - Nordost-Süd
+  - DFB Junioren Pokal
+  - DFB Pokal - Women
+  - Oberliga - Promotion Round
+  - Oberliga - Relegation Round
+  - Regionalliga - Promotion Play-offs
+  - Regionalliga - Relegation Round
+  - Oberliga - Bayern Nord
+  - Oberliga - Bayern Süd
+  - 2. Frauen Bundesliga
+  - Supercup der Frauen
+
+Italy
+  - Serie A
+  - Super Cup
+  - Serie B
+  - Coppa Italia
+  - Serie C - Girone A
+  - Serie A Women
+  - Serie C - Girone B
+  - Serie C - Girone C
+  - Serie D - Girone A
+  - Serie D - Girone B
+  - Serie D - Girone C
+  - Serie D - Girone D
+  - Serie D - Girone E
+  - Serie D - Girone F
+  - Serie D - Girone G
+  - Serie D - Girone H
+  - Serie D - Girone I
+  - Super Cup Primavera
+  - Coppa Italia Primavera
+  - Campionato Primavera - 1
+  - Campionato Primavera - 2
+  - Coppa Italia Serie C
+  - Coppa Italia Serie D
+  - Serie C - Relegation - Play-offs
+  - Serie C - Promotion - Play-offs
+  - Serie C - Supercoppa Lega Finals
+  - Serie D - Promotion - Play-offs
+  - Serie D - Relegation - Play-offs
+  - Serie D - Championship Round
+
+Netherlands
+  - Eredivisie
+  - Super Cup
+  - Eerste Divisie
+  - KNVB Beker
+  - Eredivisie Women
+  - Tweede Divisie
+  - Derde Divisie - Saturday
+  - Derde Divisie - Sunday
+  - U21 Divisie 1
+  - U18 Divisie 1
+  - Reserve League
+  - Derde Divisie - Relegation Round
+  - U19 Divisie 1
+
+Portugal
+  - Primeira Liga
+  - Super Cup
+  - Taça de Portugal
+  - Segunda Liga
+  - Campeonato de Portugal Prio - Group A
+  - Campeonato de Portugal Prio - Group B
+  - Campeonato de Portugal Prio - Group C
+  - Campeonato de Portugal Prio - Group D
+  - Taça da Liga
+  - Taça Revelação U23
+  - Campeonato de Portugal Prio - Group E
+  - Campeonato de Portugal Prio - Group F
+  - Campeonato de Portugal Prio - Group G
+  - Campeonato de Portugal Prio - Group H
+  - Liga Revelação U23
+  - Liga 3
+  - 1a Divisão - Women
+  - Campeonato de Portugal Prio - Promotion Round
+  - Júniores U19
+
+Spain
+  - La Liga
+  - Super Cup
+  - Segunda División
+  - Primera División Femenina
+  - Copa del Rey
+  - Primera División RFEF - Group 1
+  - Primera División RFEF - Group 2
+  - Primera División RFEF - Group 3
+  - Primera División RFEF - Group 4
+  - Tercera División RFEF - Group 1
+  - Tercera División RFEF - Group 2
+  - Tercera División RFEF - Group 3
+  - Tercera División RFEF - Group 4
+  - Tercera División RFEF - Group 5
+  - Tercera División RFEF - Group 6
+  - Tercera División RFEF - Group 7
+  - Tercera División RFEF - Group 8
+  - Tercera División RFEF - Group 9
+  - Tercera División RFEF - Group 10
+  - Tercera División RFEF - Group 11
+  - Tercera División RFEF - Group 12
+  - Tercera División RFEF - Group 13
+  - Tercera División RFEF - Group 14
+  - Tercera División RFEF - Group 15
+  - Tercera División RFEF - Group 16
+  - Tercera División RFEF - Group 17
+  - Tercera División RFEF - Group 18
+  - Copa Federacion
+  - Primera División RFEF - Group 5
+  - Segunda División RFEF - Group 1
+  - Segunda División RFEF - Group 2
+  - Segunda División RFEF - Group 3
+  - Segunda División RFEF - Group 4
+  - Segunda División RFEF - Group 5
+  - Tercera División RFEF - Promotion - Play-offs
+  - Segunda División RFEF - Play-offs
+  - Primera División RFEF - Play Offs
+  - Supercopa Femenina
+
+Scotland
+  - Premiership
+  - Championship
+  - League One
+  - League Two
+  - League Cup
+  - FA Cup
+  - Challenge Cup
+  - Football League - Highland League
+  - Football League - Lowland League
+  - Football League - Championship
+  - SWPL Cup
+  - SWF Scottish Cup
+
+Albania
+  - 1st Division
+  - Superliga
+  - 2nd Division - Group A
+  - 2nd Division - Group B
+  - Cup
+  - Super Cup
+  - 2nd Division - Play-offs
+
+Algeria
+  - Ligue 1
+  - Ligue 2
+  - Coupe Nationale
+  - Super Cup
+  - U21 League 1
+  - Coupe de la Ligue
+
+Tajikistan
+  - Vysshaya Liga
+
+Palestine
+  - West Bank Premier League
+
+Myanmar
+  - National League
+
+Trinidad-And-Tobago
+  - Pro League
+
+Ukraine
+  - Cup
+  - Druha Liga
+  - Persha Liga
+  - Premier League
+  - Druha Liga - Group B
+  - Super Cup
+  - U21 League
+  - U19 League
+
+United-Arab-Emirates
+  - Pro League
+  - Division 1
+  - League Cup
+  - Presidents Cup
+  - Super Cup
+
+Uruguay
+  - Segunda División
+  - Primera División - Apertura
+  - Primera División - Clausura
+  - Super Copa
+  - Copa Uruguay
+
+Tunisia
+  - Ligue 1
+  - Cup
+  - Ligue 2
+
+Turkey
+  - Süper Lig
+  - 1. Lig
+  - 2. Lig
+  - Cup
+  - 3. Lig - Group 1
+  - 3. Lig - Group 2
+  - 3. Lig - Group 3
+  - Super Cup
+  - 3. Lig - Play-offs
+  - 3. Lig - Group 4
+
+Egypt
+  - Premier League
+  - Super Cup
+  - Cup
+  - Second League
+  - Second League - Group B
+  - Second League - Group C
+  - League Cup
+  - Second League - Play-offs
+
+El-Salvador
+  - Primera Division
+
+Estonia
+  - Esiliiga A
+  - Meistriliiga
+  - Cup
+  - Esiliiga B
+
+Georgia
+  - Erovnuli Liga 2
+  - Erovnuli Liga
+  - Super Cup
+  - David Kipiani Cup
+  - Liga 3
+
+Ghana
+  - Premier League
+  - Cup
+  - Super Cup
+
+Guadeloupe
+  - Division d'Honneur
+
+Guatemala
+  - Liga Nacional
+  - Primera Division
+
+Greece
+  - Cup
+  - Football League
+  - Super League 1
+  - Super League 2
+  - Gamma Ethniki - Group 1
+  - Gamma Ethniki - Group 2
+  - Gamma Ethniki - Group 3
+  - Gamma Ethniki - Group 4
+  - Gamma Ethniki - Group 5
+  - Gamma Ethniki - Group 6
+  - Gamma Ethniki - Group 7
+  - Gamma Ethniki - Group 8
+  - Gamma Ethniki - Group 9
+  - Gamma Ethniki - Group 10
+  - Gamma Ethniki - Promotion Group
+  - Gamma Ethniki - Relegation Play-offs
+
+Andorra
+  - 1a Divisió
+  - 2a Divisió
+  - Copa Constitució
+  - Super Cup
+
+Argentina
+  - Primera B Metropolitana
+  - Primera Nacional
+  - Primera C
+  - Primera D
+  - Torneo Federal A
+  - Liga Profesional Argentina
+  - Copa Argentina
+  - Trofeo de Campeones de la Superliga
+  - Super Copa
+  - Copa de la Superliga
+  - Reserve League
+  - Copa de la Liga Profesional
+  - Torneo Promocional Amateur
+
+Australia
+  - A-League
+  - Brisbane Premier League
+  - Northern Territory Premier League
+  - Northern NSW NPL
+  - Capital Territory NPL
+  - A-League Women
+  - New South Wales NPL
+  - South Australia NPL
+  - Victoria NPL
+  - Western Australia NPL
+  - Queensland NPL
+  - Tasmania NPL
+  - Queensland Premier League
+  - South Australia State League 1
+  - New South Wales NPL 2
+  - Victoria NPL 2
+  - Australia Cup
+  - NNSW League 1
+  - Tasmania Northern Championship
+  - Capital Territory NPL 2
+  - Tasmania Southern Championship
+  - Western Australia State League 1
+
+Austria
+  - Cup
+  - 2. Liga
+  - Bundesliga
+  - Regionalliga - Mitte
+  - Regionalliga - Ost
+  - Regionalliga - West
+  - Landesliga - Burgenland
+  - Landesliga - Karnten
+  - Landesliga - Niederosterreich
+  - Landesliga - Oberosterreich
+  - Landesliga - Salzburg
+  - Landesliga - Steiermark
+  - Landesliga - Tirol
+  - Landesliga - Vorarlbergliga
+  - Landesliga - Wien
+  - Frauenliga
+  - Regionalliga - Tirol
+  - Regionalliga - Salzburg
+
+Azerbaidjan
+  - Birinci Dasta
+  - Premyer Liqa
+  - Cup
+
+Wales
+  - Premier League
+  - Welsh Cup
+  - FAW Championship
+  - League Cup
+
+Venezuela
+  - Primera División
+  - Segunda División
+  - Copa Venezuela
+
+Oman
+  - Professional League
+  - Sultan Cup
+  - Super Cup
+
+Jamaica
+  - Premier League
+
+Jordan
+  - League
+  - Shield Cup
+  - Super Cup
+  - Cup
+
+Kazakhstan
+  - 1. Division
+  - Premier League
+  - Cup
+  - Super Cup
+
+Kuwait
+  - Premier League
+  - Division 1
+  - Crown Prince Cup
+  - Super Cup
+  - Emir Cup
+
+Denmark
+  - Superliga
+  - 1. Division
+  - Denmark Series - Group 1
+  - Denmark Series - Group 2
+  - Denmark Series - Group 3
+  - DBU Pokalen
+  - 2nd Division - Group 1
+  - 2nd Division - Group 2
+  - Denmark Series - Group 4
+  - Kvindeliga
+  - 3. Division
+  - Denmark Series - Promotion Round
+  - Denmark Series - Relegation Round
+
+Honduras
+  - Liga Nacional
+
+Hong-Kong
+  - HKFA 1st Division
+  - Premier League
+  - FA Cup
+  - Senior Shield
+  - Sapling Cup
+  - HKPL Cup
+
+Hungary
+  - Magyar Kupa
+  - NB I
+  - NB II
+  - NB III - Northeast
+  - NB III - Southwest
+  - NB III - Northwest
+  - NB III - Promotion Play-offs
+  - NB III - Southeast
+
+Lebanon
+  - Premier League
+  - Cup
+  - Federation Cup
+
+Luxembourg
+  - National Division
+  - Cup
+
+Qatar
+  - Second Division
+  - Stars League
+  - QSL Cup
+  - QFA Cup
+  - Emir Cup
+  - Qatar Cup
+
+Surinam
+  - Eerste Divisie
+
+Barbados
+  - Premier League
+
+Uganda
+  - Premier League
+
+Mali
+  - Première Division
+
+USA
+  - Major League Soccer
+  - US Open Cup
+  - USL Championship
+  - USL League Two
+  - USL League One
+  - NISA
+  - NWSL Women
+  - NWSL Women - Challenge Cup
+  - MLS All-Star
+  - MLS Next Pro
+  - USL League One Cup
+  - WPSL
+  - USL W League
+  - NPSL
+  - NWSL - Liga MXF Summer Cup
+  - USL Super League
+
+Uzbekistan
+  - Super League
+  - Cup
+  - Super Cup
+  - Pro League A
+
+Thailand
+  - Thai League 1
+  - Thai League 2
+  - FA Cup
+  - Thai Champions Cup
+  - League Cup
+
+Faroe-Islands
+  - 1. Deild
+  - Meistaradeildin
+  - Løgmanssteypid
+
+Finland
+  - Ykkönen
+  - Veikkausliiga
+  - Suomen Cup
+  - Kakkonen - Lohko A
+  - Kakkonen - Lohko B
+  - Kakkonen - Lohko C
+  - Kansallinen Liiga
+  - Kakkosen Cup
+  - League Cup
+  - Ykköscup
+  - Kakkonen - Play-offs
+  - Ykkösliiga
+
+Ecuador
+  - Liga Pro
+  - Liga Pro Serie B
+  - Supercopa de Ecuador
+  - Copa Ecuador
+
+Angola
+  - Girabola
+
+Armenia
+  - First League
+  - Premier League
+  - Super Cup
+  - Cup
+
+Belarus
+  - Premier League
+  - 1. Division
+  - 2. Division
+  - Coppa
+  - Reserve League
+  - Super Cup
+
+Zambia
+  - Super League
+
+Vietnam
+  - V.League 1
+  - Cup
+  - V.League 2
+  - Super Cup
+
+Japan
+  - Emperor Cup
+  - J-League Cup
+  - J1 League
+  - J2 League
+  - J3 League
+  - Japan Football League
+  - Super Cup
+  - WE League
+
+Kenya
+  - FKF Premier League
+  - Super League
+  - Shield Cup
+
+Haiti
+  - Ligue Haïtienne
+
+Latvia
+  - 1. Liga
+  - Virsliga
+  - Cup
+
+Lithuania
+  - 1 Lyga
+  - A Lyga
+  - Cup
+  - Super Cup
+
+Singapore
+  - League Cup
+  - Premier League
+  - Cup
+
+Aruba
+  - Division di Honor
+
+Fiji
+  - National Football League
+
+Guinea
+  - Ligue 1
+
+Chile
+  - Super Cup
+  - Primera División
+  - Primera B
+  - Copa Chile
+  - Segunda División
+
+Czech-Republic
+  - Super Cup
+  - Czech Liga
+  - FNL
+  - 3. liga - CFL A
+  - 3. liga - MSFL
+  - 4. liga - Divizie A
+  - 4. liga - Divizie B
+  - 4. liga - Divizie C
+  - 4. liga - Divizie D
+  - 4. liga - Divizie E
+  - Cup
+  - 1. Liga U19
+  - 1. Liga Women
+  - 3. liga - CFL B
+  - 4. liga - Divizie F
+  - 3. liga - Promotion Play-off
+
+Ethiopia
+  - Premier League
+
+Tanzania
+  - Ligi kuu Bara
+
+Romania
+  - Supercupa
+  - Liga I
+  - Liga II
+  - Cupa României
+  - Liga III - Serie 1
+  - Liga III - Serie 2
+  - Liga III - Serie 3
+  - Liga III - Serie 4
+  - Liga III - Serie 5
+  - Liga III - Serie 6
+  - Liga III - Serie 7
+  - Liga III - Serie 8
+  - Liga III - Serie 9
+  - Liga III - Serie 10
+  - Liga 1 Feminin
+  - Liga III - Play-offs
+
+Sweden
+  - Ettan - Norra
+  - Ettan - Södra
+  - Allsvenskan
+  - Superettan
+  - Division 2 - Norra Götaland
+  - Division 2 - Norra Svealand
+  - Division 2 - Norrland
+  - Division 2 - Södra Svealand
+  - Division 2 - Västra Götaland
+  - Division 2 - Östra Götaland
+  - Svenska Cupen
+  - Svenska Cupen - Women
+  - Damallsvenskan
+  - Elitettan
+  - Division 2 - Play-offs
+  - Ettan - Relegation Round
+
+Bosnia
+  - 1st League - RS
+  - 1st League - FBiH
+  - Cup
+  - Premijer Liga
+
+South-Korea
+  - K3 League
+  - K League 1
+  - K League 2
+  - FA Cup
+  - WK-League
+
+Iran
+  - Hazfi Cup
+  - Persian Gulf Pro League
+  - Azadegan League
+  - Super Cup
+
+Israel
+  - Liga Alef
+  - Liga Leumit
+  - Ligat Ha'al
+  - State Cup
+  - Toto Cup Ligat Al
+  - Super Cup
+
+Slovakia
+  - 2. liga
+  - Super Liga
+  - I Liga - Women
+  - 3. liga - Bratislava
+  - 3. liga - West
+  - 3. liga - East
+  - 3. liga - Center
+  - Cup
+
+Iceland
+  - 2. Deild
+  - Úrvalsdeild
+  - 1. Deild
+  - Cup
+  - League Cup
+  - Super Cup
+  - Úrvalsdeild Women
+  - Reykjavik Cup
+  - Fotbolti.net Cup A
+
+Macedonia
+  - First League
+  - Second League
+  - Cup
+
+Ivory-Coast
+  - Ligue 1
+
+Malta
+  - Challenge League
+  - Premier League
+  - FA Trophy
+  - Super Cup
+
+Moldova
+  - Super Liga
+  - Liga 1
+  - Cupa
+
+Nicaragua
+  - Primera Division
+  - Liga Primera U20
+
+Nigeria
+  - NPFL
+
+Zimbabwe
+  - Premier Soccer League
+
+Sudan
+  - Sudani Premier League
+
+Senegal
+  - Ligue 1
+
+San-Marino
+  - Campionato
+  - Coppa Titano
+  - Super Cup
+
+Cameroon
+  - Elite One
+  - Elite Two
+
+Cambodia
+  - C-League
+
+Bahrain
+  - Premier League
+  - Federation Cup
+  - King's Cup
+  - Super Cup
+
+Benin
+  - Championnat National
+
+Bermuda
+  - Premier League
+
+Bhutan
+  - Super League
+  - Premier League
+
+Botswana
+  - Premier League
+
+Bangladesh
+  - Premier League
+  - Federation Cup
+
+Norway
+  - Eliteserien
+  - 1. Division
+  - Super Cup
+  - 2. Division - Group 1
+  - 2. Division - Group 2
+  - NM Cupen
+  - 3. Division - Girone 1
+  - 3. Division - Girone 2
+  - 3. Division - Girone 3
+  - 3. Division - Girone 4
+  - 3. Division - Girone 5
+  - 3. Division - Girone 6
+  - Toppserien
+  - Nasjonal U19 Champions League
+  - 1. Division Women
+  - 2. Division - Play-offs
+
+Costa-Rica
+  - Primera División
+  - Liga de Ascenso
+  - Supercopa
+  - Copa Costa Rica
+
+China
+  - Super League
+  - League One
+  - FA Cup
+  - League Two
+  - Super Cup
+
+Morocco
+  - Botola Pro
+  - Botola 2
+  - Cup
+
+Switzerland
+  - Super League
+  - Challenge League
+  - 1. Liga Promotion
+  - Schweizer Cup
+  - 1. Liga Classic - Group 1
+  - 1. Liga Classic - Group 2
+  - 1. Liga Classic - Group 3
+  - AXA Women’s Super League
+  - 2. Liga Interregional - Group 1
+  - 2. Liga Interregional - Group 2
+  - 2. Liga Interregional - Group 3
+  - 2. Liga Interregional - Group 4
+  - 2. Liga Interregional - Group 5
+  - 2. Liga Interregional - Group 6
+  - 1. Liga Classic - Play-offs
+  - Erste Liga Cup
+
+Croatia
+  - HNL
+  - First NL
+  - Cup
+  - Third NL - Istok
+  - Third NL - Jug
+  - Third NL - Sjever
+  - Third NL - Sredite
+  - Third NL - Zapad
+  - Second NL
+  - Super Cup
+
+Russia
+  - Premier League
+  - First League
+  - Youth Championship
+  - Cup
+  - Supreme Division Women
+  - Second League - Group 3
+  - Second League - Group 1
+  - Second League - Group 2
+  - Second League - Group 4
+  - Super Cup
+  - Second League A - Spring Season Gold
+  - Second League A - Spring Season Silver
+  - Second League A - Promotion Play-offs
+  - Second League A - Fall Season Gold
+  - Second League A - Fall Season Silver
+
+Colombia
+  - Primera A
+  - Primera B
+  - Copa Colombia
+  - Liga Femenina
+  - Superliga
+
+Paraguay
+  - Division Profesional - Apertura
+  - Division Intermedia
+  - Division Profesional - Clausura
+  - Copa Paraguay
+  - Supercopa
+
+Bulgaria
+  - Second League
+  - Cup
+  - First League
+  - Third League - Northeast
+  - Third League - Northwest
+  - Third League - Southeast
+  - Third League - Southwest
+  - Super Cup
+
+Mexico
+  - Liga MX
+  - Liga de Expansión MX
+  - Copa MX
+  - Copa por México
+  - Liga MX Femenil
+  - Liga Premier Serie A
+  - Campeón de Campeones
+  - U20 League
+  - Liga Premier Serie B
+  - U23 League
+
+Canada
+  - Canadian Championship
+  - Canadian Soccer League
+  - Pacific Coast Soccer League
+  - Canadian Premier League
+  - League 1 Ontario
+
+Malaysia
+  - Super League
+  - Premier League
+  - Malaysia Cup
+  - FA Cup
+
+New-Zealand
+  - Premiership
+  - National League - Central
+  - National League - National
+  - National League - Northern
+  - National League - Southern
+  - National League - Championship - Final
+  - Chatham Cup
+
+Peru
+  - Primera División
+  - Segunda División
+  - Copa Bicentenario
+  - Copa Perú
+  - Supercopa
+
+Serbia
+  - Super Liga
+  - Prva Liga
+  - Srpska Liga - Belgrade
+  - Srpska Liga - Vojvodina
+  - Srpska Liga - East
+  - Srpska Liga - West
+  - Cup
+
+South-Africa
+  - Premier Soccer League
+  - 1st Division
+  - Cup
+  - League Cup
+  - 8 Cup
+  - Diski Challenge
+  - Diski Shield
+
+Saudi-Arabia
+  - Pro League
+  - Division 1
+  - Division 2
+  - Crown Prince Cup
+  - King's Cup
+  - Super Cup
+
+Kyrgyzstan
+  - Premier League
+
+Northern-Ireland
+  - League Cup
+  - Premier Intermediate League
+  - Championship
+  - Premiership
+  - Irish Cup
+  - Charity Shield
+  - Premiership Women
+
+Syria
+  - Premier League
+
+Libya
+  - Premier League
+
+Chinese-Taipei
+  - Taiwan Football Premier League
+
+Indonesia
+  - Liga 1
+  - Piala Indonesia
+  - Liga 2
+  - Piala Presiden
+
+Panama
+  - Liga Panameña de Fútbol
+
+Poland
+  - Ekstraklasa
+  - I Liga
+  - II Liga - East
+  - Cup
+  - III Liga - Group 1
+  - III Liga - Group 2
+  - III Liga - Group 3
+  - III Liga - Group 4
+  - Central Youth League
+  - Super Cup
+  - Ekstraliga Women
+
+Cyprus
+  - 1. Division
+  - 2. Division
+  - 3. Division
+  - Cup
+  - Super Cup
+
+India
+  - Indian Super League
+  - I-League
+  - AIFF Super Cup
+  - Santosh Trophy
+  - I-League - 2nd Division
+  - Calcutta Premier Division
+
+Montenegro
+  - First League
+  - Second League
+  - Cup
+
+Bolivia
+  - Primera División
+  - Nacional B
+  - Copa de la División Profesional
+
+Slovenia
+  - 1. SNL
+  - 2. SNL
+  - Cup
+  - 3. SNL - East
+  - 3. SNL - West
+
+Malawi
+  - Super League
+
+Rwanda
+  - National Soccer League
+
+Namibia
+  - Premier League
+
+Belize
+  - Premier League
+
+Burkina-Faso
+  - Ligue 1
+
+Congo-DR
+  - Ligue 1
+
+Ireland
+  - FAI Cup
+  - League Cup
+  - Premier Division
+  - First Division
+  - FAI President's Cup
+
+Burundi
+  - Ligue A
+
+Curacao
+  - Curaçao Sekshon Pagá
+
+Kosovo
+  - Superliga
+  - Cup
+  - Super Cup
+
+Nepal
+  - A Division
+
+Turkmenistan
+  - Ýokary Liga
+  - Youth League
+
+Gibraltar
+  - Premier Division
+  - Rock Cup
+  - Super Cup
+
+Dominican-Republic
+  - Liga Mayor
+
+Liberia
+  - LFA First Division
+
+Liechtenstein
+  - Cup
+
+Mauritania
+  - Premier League
+
+Mauritius
+  - Mauritian League
+
+Mongolia
+  - Premier League
+  - Super Cup
+
+Philippines
+  - PFL
+  - Copa Paulino Alcantara
+
+Congo
+  - Ligue 1
+
+Gambia
+  - GFA League
+
+Eswatini
+  - Premier League
+
+Iraq
+  - Iraqi League
+
+Laos
+  - Lao League
+
+Somalia
+  - Somali Premier League
+
+Maldives
+  - Dhivehi Premier League
+
+Pakistan
+  - Premier League
+
+Crimea
+  - Premier League
+
+Lesotho
+  - Premier League
+
+Gabon
+  - Championnat D1
+
+Cuba
+  - Primera Division
+
+Antigua-And-Barbuda
+  - Premier Division
+
+Yemen
+  - Yemeni League
+
+Grenada
+  - Premier Division
+
+Togo
+  - Championnat National
+
+Macao
+  - Primeira Divisão
